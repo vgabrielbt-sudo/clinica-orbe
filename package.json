@@ -1,0 +1,15 @@
+{
+  "name": "clinica-orbe",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Clínica Orbe: site demonstrativo, portfólio VT Sites",
+  "scripts": {
+    "images": "node scripts/images.mjs",
+    "build": "node src/build.mjs",
+    "dev": "node src/build.mjs && npx serve site"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.0"
+  }
+}

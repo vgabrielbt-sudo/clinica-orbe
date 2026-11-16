@@ -1,0 +1,82 @@
+{
+ "hero": {
+  "w": 1200,
+  "h": 1500
+ },
+ "recepcao": {
+  "w": 1600,
+  "h": 1000
+ },
+ "consultorio": {
+  "w": 1600,
+  "h": 1100
+ },
+ "materiais": {
+  "w": 1200,
+  "h": 1200
+ },
+ "corredor": {
+  "w": 1400,
+  "h": 1800
+ },
+ "espera": {
+  "w": 1600,
+  "h": 1000
+ },
+ "detalhe": {
+  "w": 1200,
+  "h": 1500
+ },
+ "entrada": {
+  "w": 1600,
+  "h": 1000
+ },
+ "equipe-helena": {
+  "w": 900,
+  "h": 1100
+ },
+ "equipe-tomas": {
+  "w": 900,
+  "h": 1100
+ },
+ "equipe-marina": {
+  "w": 900,
+  "h": 1100
+ },
+ "equipe-caio": {
+  "w": 900,
+  "h": 1100
+ },
+ "equipe-livia": {
+  "w": 900,
+  "h": 1100
+ },
+ "ortodontia": {
+  "w": 1400,
+  "h": 1000
+ },
+ "implantodontia": {
+  "w": 1400,
+  "h": 1000
+ },
+ "estetica": {
+  "w": 1400,
+  "h": 1000
+ },
+ "clareamento": {
+  "w": 1400,
+  "h": 1000
+ },
+ "endodontia": {
+  "w": 1400,
+  "h": 1000
+ },
+ "clinica-geral": {
+  "w": 1400,
+  "h": 1000
+ },
+ "og": {
+  "w": 1200,
+  "h": 630
+ }
+}
